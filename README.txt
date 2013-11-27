@@ -4,7 +4,7 @@ Version 1.0,
 Copyright (c) Gregor Reichert
 ==================================================
 
-DWSIM is a software to implement the F-SAC model in Visual Basic with the aim to implement this into DWSIM open source precess simulator.
+This is a software to implement the F-SAC model in Visual Basic with the aim to implement this into DWSIM open source precess simulator.
 
 
 As basis for this implementation the origanal Fortran code of the publication was used.
@@ -54,6 +54,7 @@ KNOWN ISSUES
 
 Known limitations of actual version:
 - Fortran code doesn't seem to depict the formulas described in articles
+- In the middle of calculation procedures to calculate sigma profiles the program stalls
 
 
 
