@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "F-SAC-Test", "F-SAC-Test\F-SAC-Test.vbproj", "{6B02154A-AEE5-4E8C-83DA-41087B41EC2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B02154A-AEE5-4E8C-83DA-41087B41EC2E}.Debug|x86.ActiveCfg = Debug|x86
+		{6B02154A-AEE5-4E8C-83DA-41087B41EC2E}.Debug|x86.Build.0 = Debug|x86
+		{6B02154A-AEE5-4E8C-83DA-41087B41EC2E}.Release|x86.ActiveCfg = Release|x86
+		{6B02154A-AEE5-4E8C-83DA-41087B41EC2E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
